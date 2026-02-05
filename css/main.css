@@ -14,3 +14,9 @@
     border: 0px;
     text-decoration: none;    
 }
+
+.wf-cover {
+    height: 80%;
+    margin-bottom: 0.5em;
+    border: 1px solid black;
+}
