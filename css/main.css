@@ -9,3 +9,8 @@
     color: gray;
     text-decoration: line-through;
 }
+
+.imagelink {
+    border: 0px;
+    text-decoration: none;    
+}
